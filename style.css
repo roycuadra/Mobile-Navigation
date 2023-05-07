@@ -21,8 +21,8 @@ body {
 }
 .phone {
   width: 34rem;
-  height: 70rem;
-  position: relative;
+  height: 67rem;
+  position:relative;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
