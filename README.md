@@ -1,6 +1,6 @@
-### 38-Mobile-Tab-Navigation
+# [Live Demo](https://mobile-navigation.vercel.app/)
 
-- Live view: https://50-project-html-css-js-chatgpt.netlify.app/38-Mobile-Tab-Navigation
+## Mobile-Navigation
 
 The given code is for a simple image gallery functionality which involves selecting an image by clicking on the corresponding button displaying below the image.
 
